@@ -1,5 +1,5 @@
 from django.db import models
-from django.utils import timezone
+from django.utils import time.
 
 class Exoplanet(models.Model):
     PLANET_TYPES = [
